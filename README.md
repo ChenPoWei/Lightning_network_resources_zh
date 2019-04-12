@@ -178,6 +178,7 @@ https://www.youtube.com/watch?v=pbAVauYsqP0)**
 	* [BlueWallet](https://github.com/BlueWallet/BlueWallet)-使用React Native和BlockCypher API構建。
 	> [在Mac OSX上運行LNDHub](https://medium.com/@jpthor/running-lndhub-on-mac-osx-5be6671b2e0c)-如何在Mac OSX上部署和運行LNDHub實例並連接到BlueWallet。
 	* [Bitpie](https://bitpie.com) - iOS 和 Android 上的多幣種錢包，目前已適用於閃電網路。
+	* [Hoo虎符钱包](https://hoo.com) - 國內首家支持閃電網路Lightning Network的錢包。
 
 ##### Web界面 | Web Interfaces
 
